@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Williamehanksjr
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... AI,stock market, Astronomy, things like that
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... AI utilization to develop software
 - 📫 How to reach me ...william.hanks@icloud.com
 
 <!---
